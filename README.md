@@ -6,7 +6,7 @@ Tenho 15 anos, programo e quero trabalhar com desenvolvimento de jogos e TI.
 - Lógica de programação
 - LuaU
 - C#
-- Phyton
+- Python
 
 ## Projetos
 - **Tower Defense** - jogo de defesa de torres com ondas de inimigos e torres melhoráveis (LuaU, Roblox Studio)
